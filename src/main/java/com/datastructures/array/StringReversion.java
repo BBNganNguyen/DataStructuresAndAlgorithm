@@ -1,6 +1,6 @@
 package com.datastructures.array;
 
-public class ReverseAString {
+public class StringReversion {
     /**
      * Solution 1:
      * Loop for the half of string and swap the position of first index and last index
