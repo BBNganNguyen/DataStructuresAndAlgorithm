@@ -12,7 +12,7 @@ public class PalindromeTest {
         assertFalse(Palindrome.isPalindrome(""));
         assertFalse(Palindrome.isPalindrome("baby one more time"));
 
-        assertFalse(Palindrome.isPalindrome(0));
+        assertTrue(Palindrome.isPalindrome(0));
         assertFalse(Palindrome.isPalindrome(-2));
         assertTrue(Palindrome.isPalindrome(121));
         assertFalse(Palindrome.isPalindrome(123));

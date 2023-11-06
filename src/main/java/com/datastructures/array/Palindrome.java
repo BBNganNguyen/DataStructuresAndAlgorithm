@@ -40,12 +40,10 @@ public class Palindrome {
             return false;
         }
         //reverse order of x
-        int carry = 1;
         int reverseNumber = 0;
         while (xCopy > 0) {
             reverseNumber = (xCopy % 10) + reverseNumber * 10;
             xCopy = xCopy / 10;
-            carry = carry * 10;
         }
         return x == reverseNumber ? true : false;
     }
