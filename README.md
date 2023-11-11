@@ -13,3 +13,4 @@
 4. [Roman To Number](src/main/java/com/datastructures/array/RomanToNumber.java) [ [See the description at this link]](https://leetcode.com/problems/roman-to-integer/)
 5.  [Remove Duplicates from Sorted Array](src/main/java/com/datastructures/array/RemoveDuplicates.java) [See the description at this link](https://leetcode.com/problems/roman-to-integer/)
 6. [Longest Commmon Prefix](src/main/java/com/datastructures/array/LongestCommonPrefix.java) [See the description at this link](https://leetcode.com/problems/longest-common-prefix/description/)
+7. [MergeTwoSortedList](src/main/java/com/datastructures/array/MergeTwoSortedList.java) [See the description at this link](https://leetcode.com/problems/merge-two-sorted-lists/)
